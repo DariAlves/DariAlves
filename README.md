@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" width="350" src="https://hackernoon.com/hn-images/1*QPSlOyQ0EeJG169-JBYOUQ.gif" />
 
-<!--
-**DariAlves/DariAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 🙋‍♂ I'm Dari!
 
-Here are some ideas to get you started:
+🌱 Full Stack Developer in progress... <br />
+🤓 I’m currently focused on learning **Node.js, React.js, React Native & TypeScript**. <br />
+🚀 🚀 🚀 Studying at **@Rocketseat** 💜 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Gmail Badge](https://img.shields.io/badge/-darieltondf@gmail.com-1E90FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darieltondf@gmail.com)](mailto:darieltondf@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Dari_alves-1E90FF?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_dari_alves/)](https://www.instagram.com/_dari_alves/)
+
+>*"All we have to decide is what to do with the time that is given us." - Gandalf*
