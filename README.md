@@ -1,4 +1,4 @@
-<img align="right" width="350" src="https://hackernoon.com/hn-images/1*QPSlOyQ0EeJG169-JBYOUQ.gif" />
+<img align="right" width="350" src="https://lulzgif.party/thumbsup_computerboy.gif" />
 
 ### Hi there 🙋‍♂ I'm Dari!
 
