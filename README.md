@@ -4,28 +4,22 @@
 
 🌱 Full Stack Developer in progress... <br />
 
+## Contact
+
 [![Gmail Badge](https://img.shields.io/badge/-darieltondf@gmail.com-1E90FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darieltondf@gmail.com)](mailto:darieltondf@gmail.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Darielton_Alves-1E90FF?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/darielton-alves/)](https://www.linkedin.com/in/darielton-alves/)
-<br><br>
+
 >*"All we have to decide is what to do with the time that is given us." - Gandalf*
 
-## My Stats
+## GitHub stats 
 
-<center>
-	<table>
-		<td>
-		<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darialves&show_icons=true&langs_count=10&layout=compact&theme=buefy&count_private=true"/>
-		</td>
-		<td>
-		<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=darialves&show_icons=true&count_private=true" alt="Dari Alves" />
-		</td>
-	</table>
-</center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darialves&theme=tokyonight&langs_count=6)
 
-<div>
-	
-## Languages and Tools
-	
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=darialves&show_icons=true&theme=tokyonight&hide=stars)
+
+## Skills 
+
 <p>
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
