@@ -10,8 +10,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Darielton_Alves-1E90FF?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/darielton-alves/)](https://www.linkedin.com/in/darielton-alves/)
 
->*"All we have to decide is what to do with the time that is given us." - Gandalf*
-
 ## GitHub stats 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darialves&theme=tokyonight&langs_count=6)
