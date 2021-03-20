@@ -12,21 +12,22 @@
 
 ## My Stats:
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=darialves&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=darialves&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=darialves&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=darialves&hide=php&theme=tokyonight" />
-</a>
-</div>
+<center>
+	<table>
+		<td>
+			<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darialves&show_icons=true&langs_count=10&layout=compact&theme=buefy&count_private=true"/>
+		</td>
+		<td>
+			<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=darialves&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/>
+		</td>
+	</table>
+</center>
 
 <div>
 	
-<div>
-<h2>Languages and Tools</h2>
+## Languages and Tools
 	
-
+<p>
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
@@ -40,4 +41,4 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Linux_Mint.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-11.png" alt="Windows" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-</div>
+</p>
