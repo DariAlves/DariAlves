@@ -17,7 +17,7 @@
 		<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darialves&show_icons=true&langs_count=10&layout=compact&theme=buefy&count_private=true"/>
 		</td>
 		<td>
-		<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=darialves&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/>
+		<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=darialves&show_icons=true&count_private=true" alt="Dari Alves" />
 		</td>
 	</table>
 </center>
